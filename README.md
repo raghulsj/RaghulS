@@ -1,46 +1,16 @@
 # 👨‍🔧 Engineer Portfolio – Raghul Senthil Kumar
-Raghul Senthilkumar
 Instrumentation Engineer
+
 EPCC Project Experience – Oil & Gas / Industrial Instrumentation
 
-PORTFOLIO STRUCTURE:
-
-1. HEADER SECTION
+1. ABOUT ME
+   
 Instrumentation & Control Engineer with over 6+ years of EPC project experience across Oil & Gas, Fertiliser, Power, Process and Industrial sectors in Qatar, Saudi Arabia and India. Strong expertise in instrument design, P&ID development, instrumentation documentation, vendor coordination, FAT/SAT and loop checking. Experienced in delivering projects to
-IEC, ISA, ATEX and IECEx standards for multinational clients including QAFCO, QatarEnergy, Aramco and ISRO
-.
-
-# Raghul Senthilkumar
-Instrumentation Engineer | EPCC Projects | Industrial Automation
-
-Include:
-- Profile banner idea
-- LinkedIn badge
-- Email contact badge
-- Location badge
-- Years of experience badge
-
-Short professional tagline:
-"Instrumentation Engineer with 6+ years experience in EPCC projects, specializing in industrial instrumentation, control systems, and safety systems."
+IEC, ISA, ATEX and IECEx standards for multinational clients including QAFCO, QatarEnergy, Aramco and ISRO.
 
 ------------------------------------------------
 
-2. ABOUT ME SECTION
-
-Write a short professional summary explaining:
-
-• 6 years experience in Instrumentation Engineering
-• EPCC project exposure
-• Industrial automation & control
-• Instrument installation, commissioning, testing
-• Safety Instrumented Systems interest
-• Working experience in Qatar projects
-
-------------------------------------------------
-
-3. CORE SKILLS
-
-Create categorized skill badges for:
+2. CORE SKILLS
 
 Instrumentation Engineering
 • Pressure Transmitters
@@ -71,23 +41,50 @@ Safety Engineering
 
 ------------------------------------------------
 
-4. PROJECT EXPERIENCE
+3. PROJECT EXPERIENCE
+Instrumentation Engineer
+MEKDAM Technology — Doha, Qatar
+May 2025 – Present
 
-Create a clean project section showing EPCC experience.
+• Instrument Index
+• IO Lists
+• Alarm & Trip Schedules
+• Loop Diagrams
+• Hook-Up Drawings
+• Vendor Documentation
 
-Example format:
 
-### EPCC Industrial Project – Instrumentation Engineer
-Responsibilities:
-• Instrument installation and calibration
-• Loop checking and commissioning support
-• Control valve installation and testing
-• Working with engineering drawings and P&IDs
-• Supporting commissioning teams
+Senior Instrumentation Engineer
+Fives Cail – KCP Limited — Chennai
+Aug 2023 – Apr 2025
+
+• P&ID development
+• Instrument selection
+• Vendor evaluation
+• Interdisciplinary coordination
+
+
+Instrumentation Engineer
+Precision Valves Engineering — Jubail, Saudi Arabia
+Nov 2022 – May 2023
+
+• Control valve engineering
+• Instrument system integration
+• API / ANSI / ISO standards
+
+
+Electrical & Instrumentation Engineer
+Sun Industrial Automation — Chennai
+May 2019 – Nov 2022
+
+• Instrument schedules
+• Cable schedules
+• Field instrumentation supervision
+• AutoCAD P&ID updates
 
 ------------------------------------------------
 
-5. CERTIFICATIONS & LEARNING PATH
+4. CERTIFICATIONS & LEARNING PATH
 
 Include:
 
@@ -102,7 +99,7 @@ Functional Safety Engineer
 
 ------------------------------------------------
 
-6. ENGINEERING TOOLS
+5. ENGINEERING TOOLS
 
 Add tool badges for:
 
@@ -113,7 +110,7 @@ Add tool badges for:
 
 ------------------------------------------------
 
-7. CAREER GOALS
+6. CAREER GOALS
 
 Write a short section describing:
 
@@ -123,10 +120,10 @@ Write a short section describing:
 
 ------------------------------------------------
 
-8. CONTACT SECTION
+7. CONTACT SECTION
 
 Include:
 
 📍 Location: Currently working in Qatar  
-📧 Email  
-💼 LinkedIn 
+📧 Email: raghulsj30@outlook.com
+💼 LinkedIn: https://www.linkedin.com/in/raghul-s-65b5631a2/
